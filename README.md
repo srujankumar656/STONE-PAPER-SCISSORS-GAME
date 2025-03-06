@@ -49,5 +49,6 @@ cd Stone-Paper-Scissors-Game
 ```
 
 📬 Contact
-📧 Email: your-email@example.com
+
+*📧 Email: your-email@example.com
 *🔗 GitHub: your-srujankumar656
