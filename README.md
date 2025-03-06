@@ -39,14 +39,14 @@ A fun **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Pl
 1️⃣ Clone the repository  
    ```sh
    git clone https://github.com/srujankumar656/STONE-PAPER-SCISSORS-GAME.git
-
+```
 2️⃣ Open the folder
-
+```
 cd Stone-Paper-Scissors-Game
-
+```
 3️⃣ Open index.html in your browser
 
-```
+---
 
 📬 Contact
 
