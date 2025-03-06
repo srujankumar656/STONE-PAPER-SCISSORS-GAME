@@ -2,7 +2,7 @@
 
 A fun **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and test your luck! 🎉  
 
-![Game Preview](![Image](https://github.com/user-attachments/assets/5873a7e6-9755-4027-ba12-4d468872ccc1)) <!-- Replace with actual screenshot URL -->
+![Game Preview](https://github.com/user-attachments/assets/39c14292-87a8-4d15-8960-4dc3b01a9cb0) <!-- Replace with actual screenshot URL -->
 
 ---
 
