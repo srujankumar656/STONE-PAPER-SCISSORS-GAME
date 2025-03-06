@@ -46,8 +46,8 @@ cd Stone-Paper-Scissors-Game
 
 3️⃣ Open index.html in your browser
 
-```sh
+```
 
 📬 Contact
-*📧 Email: your-email@example.com
-**🔗 GitHub: your-srujankumar656
+📧 Email: your-email@example.com
+*🔗 GitHub: your-srujankumar656
